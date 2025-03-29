@@ -4,6 +4,8 @@
  */
 package com.mycompany.gitemptyfile;
 
+import org.apache.commons.math3.stat.correlation.Covariance;
+
 /**
  *
  * @author Nastya
@@ -11,5 +13,6 @@ package com.mycompany.gitemptyfile;
 public class NewClass {
     public static void muhahah(){
         System.out.println("muhahaha");
+        Covariance cov = new Covariance();
     }
 }

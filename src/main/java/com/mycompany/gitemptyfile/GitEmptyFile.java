@@ -12,5 +12,6 @@ public class GitEmptyFile {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("мухаххахах");
     }
 }
